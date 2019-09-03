@@ -1,2 +1,2 @@
 # hello-word-
-bu bir öğrenmem dürtüsüdür.
+bu bir öğrenme dürtüsüdür.
